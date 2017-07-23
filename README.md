@@ -1,1 +1,1 @@
-# paycore
+# Payment Core System
